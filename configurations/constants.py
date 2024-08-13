@@ -1,0 +1,1 @@
+SUCCESS_MESSAGE = 'You added {} to your shopping cart.'

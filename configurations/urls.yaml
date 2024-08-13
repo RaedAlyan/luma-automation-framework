@@ -1,0 +1,5 @@
+sign_up: 'https://magento.softwaretestingboard.com/customer/account/create/'
+sign_in: 'https://magento.softwaretestingboard.com/customer/account/login'
+women_page: 'https://magento.softwaretestingboard.com/women.html'
+men_page: 'https://magento.softwaretestingboard.com/men.html'
+gear_page: 'https://magento.softwaretestingboard.com/gear.html'
